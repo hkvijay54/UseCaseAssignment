@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\downloads\\abc\\c#\\UC1_empPresent\\UC1_empPresent\\UC1_empPresent\\UC3_EmpPartOrFull.csproj",
-      "projectName": "UC3_EmpPartOrFull",
-      "projectPath": "D:\\downloads\\abc\\c#\\UC1_empPresent\\UC1_empPresent\\UC1_empPresent\\UC3_EmpPartOrFull.csproj",
+      "projectUniqueName": "D:\\downloads\\abc\\c#\\UC1_empPresent\\UC1_empPresent\\UC1_empPresent\\UC4_EmpPartOrFullSwitch.csproj",
+      "projectName": "UC4_EmpPartOrFullSwitch",
+      "projectPath": "D:\\downloads\\abc\\c#\\UC1_empPresent\\UC1_empPresent\\UC1_empPresent\\UC4_EmpPartOrFullSwitch.csproj",
       "packagesPath": "C:\\Users\\hkvij\\.nuget\\packages\\",
       "outputPath": "D:\\downloads\\abc\\c#\\UC1_empPresent\\UC1_empPresent\\UC1_empPresent\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,13 +1,13 @@
 ﻿using System;
-// check employee Wage on part time or full time
+// check employee Wage on part time or full time using switch case.
 class Program
 {
     static void Main(string[] args)
     {
         //constants
-        int IS_FULL_TIME = 1;
+        //int IS_FULL_TIME = 1;
         int EMP_RATE_PER_HOUR = 20;
-        int IS_PART_TIME = 2;
+        //int IS_PART_TIME = 2;
 
         // Variables
         int emphrs = 0;
@@ -16,18 +16,23 @@ class Program
         Random random = new Random();
 
         int empCheck = random.Next(0, 3);
-        if (empCheck == IS_FULL_TIME)
+
+        switch (empCheck)
         {
-            emphrs = 8;
+            case 1:
+                Console.WriteLine("Employee is full time");
+                emphrs = 8;
+                break;
+            case 2 :
+                Console.WriteLine("Employee is part time");
+                emphrs = 4;
+                break;
+            default:
+                Console.WriteLine("Employee is absent");
+                emphrs = 0;
+                break;
         }
-        else if (empCheck == IS_PART_TIME )
-        {
-            emphrs = 4;
-        }
-        else
-        {
-            emphrs = 0;
-        }
+      
         empwage = emphrs * EMP_RATE_PER_HOUR;
         Console.WriteLine("emp Wage: " + empwage);
     }
