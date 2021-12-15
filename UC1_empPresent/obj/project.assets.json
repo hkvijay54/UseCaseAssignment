@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\downloads\\abc\\c#\\UC1_empPresent\\UC1_empPresent\\UC1_empPresent\\UC1_empPresent.csproj",
-      "projectName": "UC1_empPresent",
-      "projectPath": "D:\\downloads\\abc\\c#\\UC1_empPresent\\UC1_empPresent\\UC1_empPresent\\UC1_empPresent.csproj",
+      "projectUniqueName": "D:\\downloads\\abc\\c#\\UC1_empPresent\\UC1_empPresent\\UC1_empPresent\\UC2_EmpWage.csproj",
+      "projectName": "UC2_EmpWage",
+      "projectPath": "D:\\downloads\\abc\\c#\\UC1_empPresent\\UC1_empPresent\\UC1_empPresent\\UC2_EmpWage.csproj",
       "packagesPath": "C:\\Users\\hkvij\\.nuget\\packages\\",
       "outputPath": "D:\\downloads\\abc\\c#\\UC1_empPresent\\UC1_empPresent\\UC1_empPresent\\obj\\",
       "projectStyle": "PackageReference",
