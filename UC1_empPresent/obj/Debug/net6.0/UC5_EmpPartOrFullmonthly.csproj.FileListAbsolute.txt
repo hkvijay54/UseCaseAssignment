@@ -1,0 +1,14 @@
+D:\downloads\abc\c#\UC1_empPresent\UC1_empPresent\UC1_empPresent\bin\Debug\net6.0\UC5_EmpPartOrFullmonthly.exe
+D:\downloads\abc\c#\UC1_empPresent\UC1_empPresent\UC1_empPresent\bin\Debug\net6.0\UC5_EmpPartOrFullmonthly.deps.json
+D:\downloads\abc\c#\UC1_empPresent\UC1_empPresent\UC1_empPresent\bin\Debug\net6.0\UC5_EmpPartOrFullmonthly.runtimeconfig.json
+D:\downloads\abc\c#\UC1_empPresent\UC1_empPresent\UC1_empPresent\bin\Debug\net6.0\UC5_EmpPartOrFullmonthly.dll
+D:\downloads\abc\c#\UC1_empPresent\UC1_empPresent\UC1_empPresent\bin\Debug\net6.0\ref\UC5_EmpPartOrFullmonthly.dll
+D:\downloads\abc\c#\UC1_empPresent\UC1_empPresent\UC1_empPresent\bin\Debug\net6.0\UC5_EmpPartOrFullmonthly.pdb
+D:\downloads\abc\c#\UC1_empPresent\UC1_empPresent\UC1_empPresent\obj\Debug\net6.0\UC5_EmpPartOrFullmonthly.GeneratedMSBuildEditorConfig.editorconfig
+D:\downloads\abc\c#\UC1_empPresent\UC1_empPresent\UC1_empPresent\obj\Debug\net6.0\UC5_EmpPartOrFullmonthly.AssemblyInfoInputs.cache
+D:\downloads\abc\c#\UC1_empPresent\UC1_empPresent\UC1_empPresent\obj\Debug\net6.0\UC5_EmpPartOrFullmonthly.AssemblyInfo.cs
+D:\downloads\abc\c#\UC1_empPresent\UC1_empPresent\UC1_empPresent\obj\Debug\net6.0\UC5_EmpPartOrFullmonthly.csproj.CoreCompileInputs.cache
+D:\downloads\abc\c#\UC1_empPresent\UC1_empPresent\UC1_empPresent\obj\Debug\net6.0\UC5_EmpPartOrFullmonthly.dll
+D:\downloads\abc\c#\UC1_empPresent\UC1_empPresent\UC1_empPresent\obj\Debug\net6.0\ref\UC5_EmpPartOrFullmonthly.dll
+D:\downloads\abc\c#\UC1_empPresent\UC1_empPresent\UC1_empPresent\obj\Debug\net6.0\UC5_EmpPartOrFullmonthly.pdb
+D:\downloads\abc\c#\UC1_empPresent\UC1_empPresent\UC1_empPresent\obj\Debug\net6.0\UC5_EmpPartOrFullmonthly.genruntimeconfig.cache
